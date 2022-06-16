@@ -1,8 +1,9 @@
-// Write the import code at top
+
+//Write the import code at top
 import java.sql.*;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
-
+// new version code added
 public class SchoolRecord extends javax.swing.JFrame {
 
 	Connection con = null;
